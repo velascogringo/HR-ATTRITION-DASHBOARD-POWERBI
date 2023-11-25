@@ -17,8 +17,6 @@ HR Attrition is a Power BI dashboard project that provides insights into human r
 Before you begin, ensure you have the following installed:
 
 - Power BI Desktop: [Download Here](https://powerbi.microsoft.com/desktop/)
-- Git: [Download Here](https://git-scm.com/downloads)
-
 
 1. Open the project in Power BI Desktop.
 
