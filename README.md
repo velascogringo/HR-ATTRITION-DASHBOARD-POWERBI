@@ -6,6 +6,7 @@ HR Attrition is a Power BI dashboard project that provides insights into human r
 
 ## Features
 
+-- **Interactive Dashboard:** Explore and interact with the data to generate dynamic insights.
 - **Demographic Analysis:** Explore the distribution of employees based on various demographics.
 - **Key Metrics:** Highlight key HR metrics focusing on employees attrition data.
 - **Attrition Trends:** Visualize overall trends in employee attrition.
