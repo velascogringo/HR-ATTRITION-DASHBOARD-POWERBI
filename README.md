@@ -43,4 +43,4 @@ Before you begin, ensure you have the following installed:
 
 ## Contributing
 
-For any inquiries, please contact [your-email].
+Contributions are welcome! If you'd like to contribute, please feel free to fork the repository, make your changes, and submit a pull request.
