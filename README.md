@@ -19,19 +19,12 @@ Before you begin, ensure you have the following installed:
 - Power BI Desktop: [Download Here](https://powerbi.microsoft.com/desktop/)
 - Git: [Download Here](https://git-scm.com/downloads)
 
-### Installation
 
-1. Clone the repository:
+1. Open the project in Power BI Desktop.
 
-    ```bash
-    git clone https://github.com/your-username/your-repository.git
-    ```
+2. Load the Human Resource Attrition dataset into Power BI.
 
-2. Open the project in Power BI Desktop.
-
-3. Load the Human Resource Attrition dataset into Power BI.
-
-4. Customize the dashboard based on your specific dataset or requirements.
+3. Customize the dashboard based on your specific dataset or requirements.
 
 ## Usage
 
